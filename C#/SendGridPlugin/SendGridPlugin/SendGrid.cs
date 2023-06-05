@@ -177,14 +177,14 @@ namespace SendGrid
                     List<Content> contList = new List<Content>() { CONTENT };
                     SENDGRID.content = contList;
 
-                    var CUSTOM_ARGS = new CustomArgs { captorraId = "683972", emailId = emailId };
+                    var CUSTOM_ARGS = new CustomArgs { captorraId = "CAPTORRA_ID", emailId = emailId };
                     SENDGRID.custom_args = CUSTOM_ARGS;
 
                     //tracingService.Trace("emailContent: {0}", emailContent);
                     //tracingService.Trace("SENDGRID.content: {0}", SENDGRID.content);
 
-                    string API_KEY = "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";
-                    //string API_KEY = "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";
+                    string API_KEY = "SENDGRID_API_KEY";
+                    
 
                     DataContractJsonSerializer serializer = new DataContractJsonSerializer(typeof(SendGridEmail));
                     MemoryStream memoryStream = new MemoryStream();
