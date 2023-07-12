@@ -1,0 +1,6 @@
+C:\Users\jbermudez\source\repos\iceproducer\HandShakeCore\bin\Debug\HandShakeCore.dll
+C:\Users\jbermudez\source\repos\iceproducer\HandShakeCore\bin\Debug\HandShakeCore.pdb
+C:\Users\jbermudez\source\repos\iceproducer\HandShakeCore\obj\Debug\HandShakeCore.dll
+C:\Users\jbermudez\source\repos\iceproducer\HandShakeCore\obj\Debug\HandShakeCore.pdb
+C:\Users\jbermudez\source\repos\ICEProducer\HandShakeCore\obj\Debug\HandShakeCore.csproj.AssemblyReference.cache
+C:\Users\jbermudez\source\repos\ICEProducer\HandShakeCore\obj\Debug\HandShakeCore.csproj.CoreCompileInputs.cache
